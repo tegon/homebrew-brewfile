@@ -1,6 +1,7 @@
 # specify a directory to install
 cask_args appdir: '/Applications'
 
+brew 'bash'
 brew 'bash-completion'
 brew 'git'
 brew 'rbenv'
