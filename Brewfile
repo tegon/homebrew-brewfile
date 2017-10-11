@@ -39,3 +39,11 @@ cask 'steam'
 
 tap 'caskroom/drivers'
 cask 'xbox360-controller-driver'
+
+tap 'caskroom/fonts'
+cask 'font-inconsolata'
+cask 'font-fira-code'
+cask 'font-hack'
+cask 'font-m-plus'
+cask 'font-ubuntu'
+cask 'font-hermit'
