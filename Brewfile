@@ -51,15 +51,12 @@ brew 'webkit2png'
 brew 'cmake'
 brew 'coreutils'
 
-tap 'homebrew/dupes'
-brew 'homebrew/dupes/libiconv'
-brew 'homebrew/dupes/zlib'
+brew 'libiconv'
+brew 'zlib'
 
 cask 'firefox'
 cask 'google-chrome'
 
-cask 'coconutbattery'
-cask 'gpgtools'
 cask 'grammarly'
 cask 'rescuetime'
 cask 'spectacle'
@@ -68,7 +65,6 @@ cask 'muzzle'
 cask 'appcleaner'
 
 brew 'mas'
-mas 'Amphetamine', id: 937984704
 mas 'TheUnarchiver', id: 425424353
 
 cask 'skype'
