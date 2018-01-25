@@ -51,6 +51,7 @@ brew 'webkit2png'
 brew 'cmake'
 brew 'coreutils'
 
+tap 'homebrew/dupes'
 brew 'homebrew/dupes/libiconv'
 brew 'homebrew/dupes/zlib'
 
