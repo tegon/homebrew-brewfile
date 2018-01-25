@@ -5,50 +5,84 @@ brew 'bash'
 brew 'bash-completion'
 brew 'git'
 brew 'rbenv'
+brew 'nvm'
 brew 'tree'
 cask 'gitup'
+brew 'zsh'
+brew 'zsh-completions'
+brew 'zsh-syntax-highlighting'
+brew 'fzf'
+
+brew 'autojump'
+brew 'yarn'
+brew 'phantomjs'
+brew 'diff-so-fancy'
+brew 'the_silver_searcher'
+
+brew 'postgresql', restart_service: true
+brew 'rabbitmq', restart_service: true
+brew 'redis', restart_service: true
+brew 'sqlite'
+brew 'mongodb'
+brew 'mysql'
+
+brew 'erlang'
+brew 'elixir'
+brew 'node'
+brew 'elm'
+
+brew 'libpng'
+brew 'jpeg'
+brew 'freetype'
+brew 'fontconfig'
+brew 'gettext'
+brew 'libffi'
+brew 'glib'
+brew 'ffmpeg'
+brew 'libtool'
+brew 'webp'
+brew 'imagemagick', args: ['with-webp']
+brew 'libssh'
+brew 'libxml2'
+brew 'libxslt'
+brew 'openjpeg'
+brew 'webkit2png'
+
+brew 'cmake'
+brew 'coreutils'
+
+brew 'homebrew/dupes/libiconv'
+brew 'homebrew/dupes/zlib'
 
 cask 'firefox'
 cask 'google-chrome'
 
-cask '1password'
-cask 'calibre'
 cask 'coconutbattery'
-cask 'daisydisk'
-cask 'dropbox'
-cask 'flux'
 cask 'gpgtools'
 cask 'grammarly'
 cask 'rescuetime'
 cask 'spectacle'
-cask 'transmission'
 cask 'typora'
-cask 'vlc'
+cask 'muzzle'
+cask 'appcleaner'
 
 brew 'mas'
-mas 'Shush', id: 496437906
-mas 'Keynote', id: 409183694
+mas 'Amphetamine', id: 937984704
+mas 'TheUnarchiver', id: 425424353
 
-cask 'discord'
 cask 'skype'
 cask 'slack'
 
-cask 'alfred'
-cask 'dash'
+cask 'licecap'
 cask 'iterm2'
-cask 'postman'
+cask 'insomnia'
 cask 'sublime-text'
+cask 'sequel-pro'
+cask 'psequel'
+cask 'docker'
 
 cask 'spotify'
-cask 'steam'
-
-tap 'caskroom/drivers'
-cask 'xbox360-controller-driver'
 
 tap 'caskroom/fonts'
-cask 'font-inconsolata'
 cask 'font-fira-code'
 cask 'font-hack'
-cask 'font-m-plus'
-cask 'font-ubuntu'
-cask 'font-hermit'
