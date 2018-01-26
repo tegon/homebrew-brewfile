@@ -13,6 +13,7 @@ brew 'zsh-completions'
 brew 'zsh-syntax-highlighting'
 brew 'fzf'
 
+brew 'vim'
 brew 'autojump'
 brew 'yarn'
 brew 'phantomjs'
@@ -28,7 +29,6 @@ brew 'mysql'
 
 brew 'erlang'
 brew 'elixir'
-brew 'node'
 brew 'elm'
 
 brew 'libpng'
@@ -57,6 +57,7 @@ brew 'zlib'
 cask 'firefox'
 cask 'google-chrome'
 
+cask 'gpg-suite'
 cask 'grammarly'
 cask 'rescuetime'
 cask 'spectacle'
@@ -66,6 +67,7 @@ cask 'appcleaner'
 
 brew 'mas'
 mas 'TheUnarchiver', id: 425424353
+mas 'Amphetamine', id: 937984704
 
 cask 'skype'
 cask 'slack'
