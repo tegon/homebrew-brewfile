@@ -64,6 +64,8 @@ cask 'spectacle'
 cask 'typora'
 cask 'muzzle'
 cask 'appcleaner'
+cask 'vlc'
+cask 'webtorrent'
 
 brew 'mas'
 mas 'TheUnarchiver', id: 425424353
