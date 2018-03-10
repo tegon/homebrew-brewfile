@@ -59,7 +59,6 @@ cask 'google-chrome'
 
 cask 'gpg-suite'
 cask 'grammarly'
-cask 'rescuetime'
 cask 'spectacle'
 cask 'muzzle'
 cask 'appcleaner'
@@ -69,6 +68,7 @@ cask 'webtorrent'
 brew 'mas'
 mas 'TheUnarchiver', id: 425424353
 mas 'Amphetamine', id: 937984704
+mas 'Keynote', id: 409183694
 
 cask 'skype'
 cask 'slack'
