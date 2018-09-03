@@ -81,6 +81,7 @@ cask 'sublime-text'
 cask 'sequel-pro'
 cask 'postico'
 cask 'docker'
+cask 'rescuetime'
 
 cask 'spotify'
 
