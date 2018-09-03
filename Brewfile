@@ -78,7 +78,7 @@ cask 'iterm2'
 cask 'insomnia'
 cask 'sublime-text'
 cask 'sequel-pro'
-cask 'psequel'
+cask 'postico'
 cask 'docker'
 
 cask 'spotify'
