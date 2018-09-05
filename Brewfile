@@ -83,6 +83,7 @@ cask 'postico'
 cask 'docker'
 cask 'rescuetime'
 cask 'typora'
+cask 'xmind-zen'
 
 cask 'spotify'
 
