@@ -16,7 +16,7 @@ brew 'fzf'
 brew 'vim'
 brew 'autojump'
 brew 'yarn'
-brew 'phantomjs'
+cask 'phantomjs'
 brew 'diff-so-fancy'
 brew 'the_silver_searcher'
 
@@ -83,7 +83,6 @@ cask 'postico'
 cask 'docker'
 cask 'rescuetime'
 cask 'typora'
-cask 'xmind-zen'
 
 cask 'spotify'
 
