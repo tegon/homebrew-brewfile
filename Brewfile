@@ -27,10 +27,6 @@ brew 'sqlite'
 brew 'mongodb'
 brew 'mysql'
 
-brew 'erlang'
-brew 'elixir'
-brew 'elm'
-
 brew 'libpng'
 brew 'jpeg'
 brew 'freetype'
