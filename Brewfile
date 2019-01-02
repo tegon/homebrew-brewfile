@@ -17,6 +17,7 @@ brew 'vim'
 brew 'autojump'
 brew 'yarn'
 cask 'phantomjs'
+cask 'chromedriver'
 brew 'diff-so-fancy'
 brew 'the_silver_searcher'
 
