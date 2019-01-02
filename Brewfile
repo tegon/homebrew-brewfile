@@ -69,7 +69,6 @@ mas 'Keynote', id: 409183694
 
 cask 'skype'
 cask 'slack'
-cask 'gitter'
 
 cask 'licecap'
 cask 'iterm2'
