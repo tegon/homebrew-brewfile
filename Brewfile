@@ -20,6 +20,8 @@ cask 'phantomjs'
 cask 'chromedriver'
 brew 'diff-so-fancy'
 brew 'the_silver_searcher'
+brew 'mkcert'
+brew 'nss'
 
 brew 'postgresql', restart_service: true
 brew 'rabbitmq', restart_service: true
