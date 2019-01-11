@@ -61,8 +61,6 @@ cask 'grammarly'
 cask 'spectacle'
 cask 'muzzle'
 cask 'appcleaner'
-cask 'vlc'
-cask 'webtorrent'
 
 brew 'mas'
 mas 'TheUnarchiver', id: 425424353
@@ -79,7 +77,6 @@ cask 'sublime-text'
 cask 'sequel-pro'
 cask 'postico'
 cask 'docker'
-cask 'rescuetime'
 cask 'typora'
 
 cask 'spotify'
