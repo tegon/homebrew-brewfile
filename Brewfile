@@ -53,6 +53,9 @@ brew 'coreutils'
 brew 'libiconv'
 brew 'zlib'
 
+brew 'awscli'
+brew 'jq'
+
 cask 'firefox'
 cask 'google-chrome'
 
