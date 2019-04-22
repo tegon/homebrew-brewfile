@@ -81,6 +81,7 @@ cask 'sequel-pro'
 cask 'postico'
 cask 'docker'
 cask 'typora'
+cask 'krisp'
 
 cask 'spotify'
 
