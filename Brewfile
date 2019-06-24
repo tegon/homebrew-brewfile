@@ -13,6 +13,7 @@ brew 'zsh-completions'
 brew 'zsh-syntax-highlighting'
 brew 'fzf'
 brew 'tfenv'
+brew 'tldr'
 
 brew 'vim'
 brew 'autojump'
