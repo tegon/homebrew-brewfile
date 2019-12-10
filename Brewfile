@@ -76,7 +76,7 @@ mas '1Password', id: 568903335
 cask 'skype'
 cask 'slack'
 
-cask 'licecap'
+cask 'kap'
 cask 'iterm2'
 cask 'insomnia'
 cask 'sublime-text'
