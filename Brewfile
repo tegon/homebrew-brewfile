@@ -85,6 +85,7 @@ cask 'postico'
 cask 'docker'
 cask 'typora'
 cask 'deckset'
+cask 'dash'
 
 cask 'spotify'
 
