@@ -31,6 +31,7 @@ brew 'redis', restart_service: true
 brew 'sqlite'
 brew 'mongodb'
 brew 'mysql'
+brew 'kafka'
 
 brew 'libpng'
 brew 'jpeg'
