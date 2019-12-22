@@ -30,6 +30,7 @@ brew 'rabbitmq', restart_service: true
 brew 'redis', restart_service: true
 brew 'sqlite'
 brew 'mysql'
+cask 'adoptopenjdk8'
 brew 'kafka'
 
 brew 'libpng'
