@@ -72,7 +72,6 @@ mas 'TheUnarchiver', id: 425424353
 mas 'Amphetamine', id: 937984704
 mas 'Keynote', id: 409183694
 mas 'MindNode', id: 1289197285
-mas '1Password', id: 568903335
 mas 'Dato', id: 1470584107
 
 cask 'skype'
