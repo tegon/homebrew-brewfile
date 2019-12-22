@@ -43,7 +43,7 @@ brew 'glib'
 brew 'ffmpeg'
 brew 'libtool'
 brew 'webp'
-brew 'imagemagick', args: ['with-webp']
+brew 'imagemagick'
 brew 'libssh'
 brew 'libxml2'
 brew 'libxslt'
