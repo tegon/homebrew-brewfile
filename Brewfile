@@ -91,7 +91,7 @@ cask 'dash'
 
 cask 'spotify'
 
-tap 'caskroom/fonts'
+tap 'homebrew/cask-fonts'
 cask 'font-fira-code'
 cask 'font-hack'
 cask 'font-roboto-mono'
