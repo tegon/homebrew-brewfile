@@ -29,7 +29,6 @@ brew 'postgresql', restart_service: true
 brew 'rabbitmq', restart_service: true
 brew 'redis', restart_service: true
 brew 'sqlite'
-brew 'mongodb'
 brew 'mysql'
 brew 'kafka'
 
