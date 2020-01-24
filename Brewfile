@@ -24,6 +24,7 @@ brew 'diff-so-fancy'
 brew 'the_silver_searcher'
 brew 'mkcert'
 brew 'nss'
+brew 'direnv'
 
 brew 'postgresql', restart_service: true
 brew 'rabbitmq', restart_service: true
