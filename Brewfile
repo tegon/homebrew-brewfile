@@ -68,6 +68,7 @@ cask 'gpg-suite'
 cask 'spectacle'
 cask 'muzzle'
 cask 'appcleaner'
+cask 'karabiner-elements'
 
 brew 'mas'
 mas 'TheUnarchiver', id: 425424353
