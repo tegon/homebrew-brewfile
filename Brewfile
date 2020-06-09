@@ -59,6 +59,8 @@ brew 'libiconv'
 brew 'zlib'
 
 brew 'awscli'
+tap 'versent/homebrew-taps'
+brew 'saml2aws'
 brew 'jq'
 
 cask 'firefox'
