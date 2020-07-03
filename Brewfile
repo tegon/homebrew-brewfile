@@ -93,6 +93,7 @@ cask 'docker'
 cask 'typora'
 cask 'deckset'
 cask 'dash'
+cask 'kitty'
 
 cask 'spotify'
 
