@@ -7,7 +7,6 @@ brew 'git'
 brew 'rbenv'
 brew 'nvm'
 brew 'tree'
-cask 'gitup'
 brew 'zsh'
 brew 'zsh-completions'
 brew 'zsh-syntax-highlighting'
@@ -31,9 +30,6 @@ brew 'rabbitmq', restart_service: true
 brew 'redis', restart_service: true
 brew 'sqlite'
 brew 'mysql'
-tap 'homebrew/cask-versions'
-cask 'adoptopenjdk8'
-brew 'kafka'
 
 brew 'libpng'
 brew 'jpeg'
@@ -63,12 +59,10 @@ tap 'versent/homebrew-taps'
 brew 'saml2aws'
 brew 'jq'
 
-cask 'firefox'
 cask 'google-chrome'
 
 cask 'gpg-suite'
 cask 'spectacle'
-cask 'muzzle'
 cask 'appcleaner'
 cask 'karabiner-elements'
 
@@ -80,11 +74,9 @@ mas 'MindNode', id: 1289197285
 mas 'Dato', id: 1470584107
 mas 'Shush', id: 496437906
 
-cask 'skype'
 cask 'slack'
 
 cask 'kap'
-cask 'iterm2'
 cask 'insomnia'
 cask 'sublime-text'
 cask 'sequel-pro'
