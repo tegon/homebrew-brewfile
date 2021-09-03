@@ -22,10 +22,6 @@ brew 'nss'
 brew 'direnv'
 
 brew 'postgresql', restart_service: true
-brew 'rabbitmq', restart_service: true
-brew 'redis', restart_service: true
-brew 'sqlite'
-brew 'mysql'
 
 brew 'libpng'
 brew 'jpeg'
