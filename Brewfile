@@ -87,8 +87,6 @@ cask 'deckset'
 cask 'dash'
 cask 'kitty'
 
-cask 'spotify'
-
 tap 'homebrew/cask-fonts'
 cask 'font-fira-code'
 cask 'font-hack'
