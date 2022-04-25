@@ -20,6 +20,7 @@ brew 'the_silver_searcher'
 brew 'mkcert'
 brew 'nss'
 brew 'direnv'
+brew 'pure'
 
 brew 'postgresql', restart_service: true
 
