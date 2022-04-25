@@ -66,6 +66,8 @@ mas 'MindNode', id: 1289197285
 mas 'Shush', id: 496437906
 
 cask 'slack'
+cask 'notion'
+cask 'around'
 
 cask 'kap'
 cask 'insomnia'
