@@ -55,7 +55,7 @@ brew 'jq'
 cask 'google-chrome'
 
 cask 'gpg-suite'
-cask 'spectacle'
+cask 'rectangle'
 cask 'appcleaner'
 cask 'karabiner-elements'
 
