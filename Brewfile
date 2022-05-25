@@ -71,7 +71,6 @@ cask 'slack'
 cask 'notion'
 cask 'around'
 
-cask 'kap'
 cask 'insomnia'
 cask 'sublime-text'
 cask 'sequel-pro'
