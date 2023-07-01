@@ -65,7 +65,6 @@ mas 'TheUnarchiver', id: 425424353
 mas 'Amphetamine', id: 937984704
 mas 'Keynote', id: 409183694
 mas 'MindNode', id: 1289197285
-mas 'Shush', id: 496437906
 
 cask 'slack'
 cask 'notion'
