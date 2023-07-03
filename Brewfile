@@ -69,6 +69,7 @@ mas 'MindNode', id: 1289197285
 cask 'slack'
 cask 'notion'
 cask 'zoom'
+cask 'figma'
 
 cask 'insomnia'
 cask 'sublime-text'
