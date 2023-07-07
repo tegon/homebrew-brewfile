@@ -70,6 +70,8 @@ cask 'slack'
 cask 'notion'
 cask 'zoom'
 cask 'figma'
+cask 'discord'
+cask 'nordvpn'
 
 cask 'insomnia'
 cask 'sublime-text'
