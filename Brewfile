@@ -52,6 +52,7 @@ brew 'awscli'
 tap 'versent/homebrew-taps'
 brew 'saml2aws'
 brew 'jq'
+brew 'kubectl'
 
 cask 'google-chrome'
 
