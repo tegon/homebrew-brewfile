@@ -82,6 +82,7 @@ cask 'docker'
 cask 'deckset'
 cask 'dash'
 cask 'kitty'
+cask 'postman'
 
 tap 'homebrew/cask-fonts'
 cask 'font-fira-code'
