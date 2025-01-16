@@ -24,6 +24,7 @@ brew 'direnv'
 brew 'pure'
 
 brew 'postgresql', restart_service: true
+brew 'postgis'
 
 brew 'libpng'
 brew 'jpeg'
@@ -69,20 +70,14 @@ mas 'MindNode', id: 1289197285
 
 cask 'slack'
 cask 'notion'
-cask 'zoom'
 cask 'figma'
-cask 'discord'
-cask 'nordvpn'
 
 cask 'insomnia'
 cask 'sublime-text'
-cask 'sequel-pro'
 cask 'postico'
 cask 'docker'
 cask 'deckset'
 cask 'dash'
 cask 'kitty'
-cask 'postman'
 
-tap 'homebrew/cask-fonts'
 cask 'font-fira-code'
