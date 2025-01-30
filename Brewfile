@@ -75,10 +75,10 @@ cask 'zoom'
 
 cask 'insomnia'
 cask 'sublime-text'
-cask 'postico'
+cask 'postico@1'
 cask 'docker'
 cask 'deckset'
-cask 'dash'
+cask 'dash@6'
 cask 'kitty'
 
 cask 'font-fira-code'
